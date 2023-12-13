@@ -3,12 +3,12 @@ Climate change Statistic and Trends
 
 ABOUT:
 This project is created to read data as CSV file using pandas as data frames and to select necessary parts of data, 
-do a transpose of the cleaned data use statistical tools and methods to get the value of mean, median using describe() function
-and to plot the bar and line chart of selected countries for a selected period of time. develop plots and to plot a heatmap using
-seaborn.
+do a transpose of the cleaned data use statistical tools and methods to get the value of mean, and median using the describe() function
+and to plot the bar and line chart of selected countries for a selected period of time. develop plots and plot a heatmap using
+Seaborn.
 
 PREREQUISITES:
-matplotlib.pyplot
+matplotlib
 pandas
 seaborn
 
