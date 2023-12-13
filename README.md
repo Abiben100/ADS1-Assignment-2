@@ -15,7 +15,7 @@ seaborn
 INSTALLATION
 1. On your command terminal type
 2. pip install matplotlib pandas seaborn
-you should be able to install the necessary packages and a restart your kernal message pops up
+you should be able to install the necessary packages and a restart your kernel message pops up
 
 NOTE:
-The pdf format of the report might not be rendered and viewed online but can be downloaded and viewed 
+The pdf format of the report might not be rendered and viewed online but can be downloaded and viewed.
